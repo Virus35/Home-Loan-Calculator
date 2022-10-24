@@ -1,5 +1,5 @@
 ## 🔗Home Loan Calculator
-[https://vishal-palindrome-checker-game.netlify.app/](https://vishal-palindrome-checker-game.netlify.app/)
+[https://vishal-home-loan-calculator.netlify.app/](https://vishal-home-loan-calculator.netlify.app/)
 
 
 ## ⭐ Home Loan Calculator ⭐
